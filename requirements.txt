@@ -107,7 +107,7 @@ peewee==3.17.9
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pillow @ file:///croot/pillow_1734430590456/work
 platformdirs @ file:///croot/platformdirs_1692205439124/work
-plotly>= 5.0 
+plotly>=5.0 
 ply==3.11
 prometheus_client @ file:///croot/prometheus_client_1731953121795/work
 prompt-toolkit @ file:///croot/prompt-toolkit_1704404351921/work
